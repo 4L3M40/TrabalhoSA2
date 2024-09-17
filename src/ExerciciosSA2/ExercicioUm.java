@@ -1,6 +1,6 @@
 package ExerciciosSA2;
 
-import java.util.Arrays; // O import deve estar aqui, antes das classes.
+import java.util.Arrays;
 
 public class ExercicioUm {
     public static void main(String[] args) {
