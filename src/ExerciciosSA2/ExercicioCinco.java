@@ -16,7 +16,7 @@ public class ExercicioCinco {
         //Lista de animais
         List<String> listaAnimais = List.of("Cachorro", "Gato", "Esquilo", "Leão", "Tigre");
 
-        System.out.println("Lista de animais enumerados:");
+        System.out.println("Elementos da lista enumerados:");
         imprimirListaEnumerada(listaAnimais);
     }
 }
