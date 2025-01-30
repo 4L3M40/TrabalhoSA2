@@ -1,4 +1,4 @@
-# Exercícios de Programação - SA2
+# Exercícios de Programação - Trabalho SENAI SA2
 
 Este repositório contém a solução para os exercícios do Sistema de Avaliação 2, abordando conceitos como manipulação de arrays, operações com listas e cálculos básicos em Java.
 
